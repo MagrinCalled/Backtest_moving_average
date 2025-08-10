@@ -9,3 +9,5 @@ Backtests performed on various indexes (MSCI World, CAC 40, S&P 500, etc.) show 
 Other metrics, such as the Sharpe ratio or the Calmar ratio, could also be calculated, but here we focus on the basics. The backtests also show that the more complex strategy consistently underperforms. In some cases, it even accentuates the maximum drawdown.
 
 This approach can also be applied to forex pairs (e.g., EUR/USD). In forex, a simple “buy-and-hold” strategy is rarely used by traders. However, this moving average strategy tends not to outperform already highly volatile assets. For stocks like NVDA, MSFT, and AAPL, it consistently underperforms a simple buy-and-hold strategy.
+
+Feel free to take the code and backtest with various moving average period, different assets.
